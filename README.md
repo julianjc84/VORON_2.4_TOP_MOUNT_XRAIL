@@ -12,6 +12,6 @@ uses parts from https://grabcad.com/library/contribution-to-the-retractable_prob
 https://grabcad.com/library/contribution-to-the-various-vzbot-fanduct-systems-in-combination-with-the-klicky-probedi-jlas1-and-quickdraw-systems-of-annex-1?fbclid=IwAR16A_0Nun4rFj4dr5-l7O6l62gWpChDlT06tSl2N-mH0tbDB2Qwea59Pus
 Download in the STL folder
 
-![](/images/iso.jpg) 
+![](/images/iso.png) 
 
-![](/images/front.jpg) 
+![](/images/front.png) 
