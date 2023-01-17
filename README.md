@@ -21,16 +21,23 @@ https://grabcad.com/library/contribution-to-the-various-vzbot-fanduct-systems-in
 
 # Downloads in the STL folder
 
+# v3 images
+
+![](/images/v3/v3iso.png) 
+
+![](/images/v3/v3back.png) 
+
+![](/images/v3/v3right.png) 
+
 # v2 images
 
 ![](/images/v2/v2iso.png) 
 
 ![](/images/v2/v2front.png) 
 
-# v3 images
+# youtube
 
-![](/images/v3/v3iso.png) 
+![]https://youtu.be/8w1qv4k_UrQ
 
-![](/images/v3/v3front.png) 
 
-![](/images/v3/v3right.png) 
+![]https://youtu.be/LdVHs1veAIQ
