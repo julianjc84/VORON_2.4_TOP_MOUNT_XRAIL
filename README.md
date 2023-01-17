@@ -37,7 +37,5 @@ https://grabcad.com/library/contribution-to-the-various-vzbot-fanduct-systems-in
 
 # youtube
 
-![]https://youtu.be/8w1qv4k_UrQ
-
-
-![]https://youtu.be/LdVHs1veAIQ
+[![youtube](https://img.youtube.com/vi/LdVHs1veAIQ/0.jpg)](https://www.youtube.com/watch?v=LdVHs1veAIQ)
+[![youtube](https://img.youtube.com/vi/8w1qv4k_UrQ/0.jpg)](https://www.youtube.com/watch?v=8w1qv4k_UrQ)
