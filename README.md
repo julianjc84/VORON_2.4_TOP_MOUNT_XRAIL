@@ -4,9 +4,9 @@ Many thanks to the VzBot  and the Voron team for making these Excellent Printers
 VORON-2.4-TOP-MONT-X-RAIL
 
 # Work In Progress
-2023-01-17 - v3 uploaded - untested
-2023-01-06 - v2 uploaded
-Many things may change...
+- 2023-01-17 - v3 uploaded - untested
+- 2023-01-06 - v2 uploaded
+- Many things may change...
 
 # Inspired By
 https://github.com/VzBoT3D/Vz-Printhead and https://github.com/VzBoT3D/VzBoT-Vz330
@@ -21,7 +21,7 @@ https://grabcad.com/library/contribution-to-the-various-vzbot-fanduct-systems-in
 
 # Downloads in the STL folder
 
-# v3 images
+# v3 Images
 
 ![](/images/v3/v3iso.png) 
 
@@ -29,15 +29,16 @@ https://grabcad.com/library/contribution-to-the-various-vzbot-fanduct-systems-in
 
 ![](/images/v3/v3right.png) 
 
-# v2 images
+# v2 Images
 
 ![](/images/v2/v2iso.png) 
 
 ![](/images/v2/v2front.png) 
 
-# youtube
+# YouTube
 
-![]https://youtu.be/8w1qv4k_UrQ
+[![youtube journey](https://img.youtube.com/vi/8w1qv4k_UrQ/0.jpg)](https://www.youtube.com/watch?v=8w1qv4k_UrQ)
+
+[![youtube preview](https://img.youtube.com/vi/LdVHs1veAIQ/0.jpg)](https://www.youtube.com/watch?v=LdVHs1veAIQ)
 
 
-![]https://youtu.be/LdVHs1veAIQ
