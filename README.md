@@ -40,6 +40,16 @@ https://grabcad.com/library/contribution-to-the-various-vzbot-fanduct-systems-in
 
 # v3 Images
 
+![](/images/v3/682g.png) 
+
+![](/images/v3/l_front.png) 
+
+![](/images/v3/l_side.png) 
+
+![](/images/v3/l_iso.png) 
+
+![](/images/v3/v3iso.png) 
+
 ![](/images/v3/v3iso.png) 
 
 ![](/images/v3/v3back.png) 
