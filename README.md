@@ -21,6 +21,13 @@ https://grabcad.com/library/contribution-to-the-various-vzbot-fanduct-systems-in
 
 # Downloads in the STL folder
 
+# InputShaper
+
+![](/images/input_shaper/x.png)
+
+![](/images/input_shaper/y.png) 
+
+
 # v3 Images
 
 ![](/images/v3/v3iso.png) 
