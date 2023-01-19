@@ -14,7 +14,7 @@ VORON-2.4-TOP-MONT-X-RAIL
  - full x mount built
  - no major belt changes just routed to rear of x axis, no cuttin no trimming.
  - bed printable area 336x 324y
- ![](/images/336x324y.png)
+ ![](/images/336x324y.jpg)
 
 # Requriments
  - sensorless homing
