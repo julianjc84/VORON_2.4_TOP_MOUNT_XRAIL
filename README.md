@@ -7,6 +7,9 @@ VORON-2.4-TOP-MONT-X-RAIL
 - 2023-01-18 - v3 uploaded - tested to be epic
 - Many things may change...
 
+# known issues
+- tool head rear cooling fan slightly collides with gantry rear left and right corners. Not sure how I want to resolve this, it helps to sensorless home Y1st then back off 30mm then X then Z 
+
 # Features
  - simple install just new xy parts only
  - 682gram x rail full system. (lightest in the world for a 350x350 voron)
