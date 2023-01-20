@@ -68,7 +68,8 @@ https://grabcad.com/library/contribution-to-the-various-vzbot-fanduct-systems-in
 
 [![youtube preview](https://img.youtube.com/vi/LdVHs1veAIQ/0.jpg)](https://www.youtube.com/watch?v=LdVHs1veAIQ)
 
-# Discord
+# feedback thoughts
+TopMountXRail@jc84.com
 julianjc84#7938
 
 
