@@ -15,7 +15,7 @@ VORON-2.4-TOP-MONT-X-RAIL
  - top mount x rail
  - full x mount built
  - no major belt changes just routed to rear of x axis, no cuttin no trimming.
- - bed printable area 336x 324y
+ - bed printable area 336x 324y (TODO:the bed can be pushed back ~4mm to increase ethe Y to 328ish)
  ![](/images/336x324y.jpg)
 
 # Requriments
