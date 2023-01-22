@@ -7,13 +7,17 @@ VORON-2.4-TOP-MONT-X-RAIL
 - 2023-01-18 - v3 uploaded - tested to be epic
 - Many things may change...
 
+# known issues
+- tool head rear cooling fan slightly collides with gantry rear left and right corners. Not sure how I want to resolve this, it helps to sensorless home Y1st then back off 30mm then X then Z 
+
 # Features
  - simple install just new xy parts only
  - 682gram x rail full system. (lightest in the world for a 350x350 voron)
  - top mount x rail
  - full x mount built
  - no major belt changes just routed to rear of x axis, no cuttin no trimming.
- - bed printable area 336x 242y
+ - bed printable area 336x 324y
+ ![](/images/336x324y.jpg)
 
 # Requriments
  - sensorless homing
@@ -64,7 +68,8 @@ https://grabcad.com/library/contribution-to-the-various-vzbot-fanduct-systems-in
 
 [![youtube preview](https://img.youtube.com/vi/LdVHs1veAIQ/0.jpg)](https://www.youtube.com/watch?v=LdVHs1veAIQ)
 
-# Discord
+# feedback thoughts
+TopMountXRail@jc84.com
 julianjc84#7938
 
 
