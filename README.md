@@ -28,7 +28,9 @@ VORON-2.4-TOP-MONT-X-RAIL
 https://www.printables.com/model/279739-voron-can-bus-z-chain-move
 
 # Inspired By
-https://github.com/VzBoT3D/Vz-Printhead and https://github.com/VzBoT3D/VzBoT-Vz330
+https://github.com/VzBoT3D/Vz-Printhead
+https://github.com/VzBoT3D/Vz-Printhead-Printed
+https://github.com/VzBoT3D/VzBoT-Vz330
 
 # Modified Parts From
 https://grabcad.com/library/contribution-to-the-retractable_probe_dock-for-klicky-probe-and-quickdraw-probe-system-for-voron-of-tronfu-adapted-to-vzbotrobe-per-voron-di-tronfu-riadattato-alla-vzbot-1?fbclid=IwAR31FLcYtxWH4eCrtFb1iTl6fMMfGeksUfxyhcuGlu9bqLtTKSHHada0CzA
