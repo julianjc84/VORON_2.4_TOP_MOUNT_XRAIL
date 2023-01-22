@@ -19,7 +19,7 @@ VORON-2.4-TOP-MONT-X-RAIL
  ![](/images/336x324y.jpg)
 
 # Requriments
- - sensorless homing
+ - sensorless homing recommend Y home 1st then X home Then Z home
  https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
  - klicky prob (really like it so far) Adjustable gantry mount
  https://github.com/jlas1/Klicky-Probe
