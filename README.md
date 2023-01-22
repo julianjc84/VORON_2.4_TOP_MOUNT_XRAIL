@@ -8,14 +8,16 @@ VORON-2.4-TOP-MONT-X-RAIL
 - Many things may change...
 
 # known issues
-- tool head rear cooling fan slightly collides with gantry rear left and right corners. to implement heat set nuts on fan mount to save 3 to 4mm to implement
+- Tool head rear cooling fan slightly collides with gantry rear left and right corners.
+  - a solution is to implement heat set nuts on fan mount to save ~4mm to implement.
+  - increase the XY mounts to collide with the gantry sooner to allow more padding space.
+
 # Features
  - Top Mount X Rail
- - simple install just new xy parts only.
+ - Simple istall just new xy parts only.
+ - No major belt changes just the idler belts are now routed to rear of x axis beam. No cuttin no trimming of belts required.
  - 682gram Total X Rail Full System. (is there a lighter gantry out there for a voron 2.4?)
  ![](/images/v3/682g.png)
- - full x mount built
- - no major belt changes just routed to rear of x axis, no cuttin no trimming.
  - bed printable area 336x 324y (TODO:the bed can be pushed back ~4mm to increase ethe Y to 328ish)
  ![](/images/336x324y.jpg)
 
