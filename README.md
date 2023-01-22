@@ -16,6 +16,7 @@ VORON-2.4-TOP-MONT-X-RAIL
  - Top Mount X Rail
  - Simple istall just new xy parts only.
  - No major belt changes just the idler belts are now routed to rear of x axis beam. No cuttin no trimming of belts required.
+ - ultra lightweigth with 17K accelerations. Print jobs look excellent at 10k internal 5k external
  - 682gram Total X Rail Full System. (is there a lighter gantry out there for a voron 2.4?)
  ![](/images/v3/682g.png)
  - bed printable area 336x 324y (TODO:the bed can be pushed back ~4mm to increase ethe Y to 328ish)
