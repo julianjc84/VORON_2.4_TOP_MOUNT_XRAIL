@@ -10,9 +10,10 @@ VORON-2.4-TOP-MONT-X-RAIL
 # known issues
 - tool head rear cooling fan slightly collides with gantry rear left and right corners. to implement heat set nuts on fan mount to save 3 to 4mm to implement
 # Features
- - simple install just new xy parts only
- - 682gram x rail full system. (lightest in the world for a 350x350 voron)
- - top mount x rail
+ - Top Mount X Rail
+ - simple install just new xy parts only.
+ - 682gram Total X Rail Full System. (is there a lighter gantry out there for a voron 2.4?)
+ ![](/images/v3/682g.png)
  - full x mount built
  - no major belt changes just routed to rear of x axis, no cuttin no trimming.
  - bed printable area 336x 324y (TODO:the bed can be pushed back ~4mm to increase ethe Y to 328ish)
@@ -43,8 +44,6 @@ https://www.printables.com/model/279739-voron-can-bus-z-chain-move
 ![](/images/input_shaper/y.png) 
 
 # v3 Images
-
-![](/images/v3/682g.png) 
 
 ![](/images/v3/l_front.png) 
 
