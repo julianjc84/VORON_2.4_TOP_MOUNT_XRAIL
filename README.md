@@ -8,8 +8,7 @@ VORON-2.4-TOP-MONT-X-RAIL
 - Many things may change...
 
 # known issues
-- tool head rear cooling fan slightly collides with gantry rear left and right corners. Not sure how I want to resolve this, it helps to sensorless home Y1st then back off 30mm then X then Z 
-
+- tool head rear cooling fan slightly collides with gantry rear left and right corners. to implement heat set nuts on fan mount to save 3 to 4mm to implement
 # Features
  - simple install just new xy parts only
  - 682gram x rail full system. (lightest in the world for a 350x350 voron)
