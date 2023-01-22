@@ -24,12 +24,14 @@ VORON-2.4-TOP-MONT-X-RAIL
 
 # Requriments
  - sensorless homing recommend Y home 1st then X home Then Z home
- https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
+  - https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
  - klicky prob (really like it so far) Adjustable gantry mount
- https://github.com/jlas1/Klicky-Probe
+  - https://github.com/jlas1/Klicky-Probe
+  - custom adjustable gantry mount to suit custom heights
+  -  https://github.com/julianjc84/VORON-2.4-TOP-MONT-X-RAIL/tree/main/ADJUSTABLE_klicky_probe_dock_voron2.4
  - umbelical or some kind of no cable chain system.
  - move the z axis chain under the gantry
-https://www.printables.com/model/279739-voron-can-bus-z-chain-move
+  - https://www.printables.com/model/279739-voron-can-bus-z-chain-move
 
 # Inspired By
 - https://github.com/VzBoT3D/Vz-Printhead
