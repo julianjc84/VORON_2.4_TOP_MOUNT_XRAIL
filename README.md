@@ -13,24 +13,24 @@ VORON-2.4-TOP-MONT-X-RAIL
   - increase the XY mounts to collide with the gantry sooner to allow more padding space.
 
 # Features
- - Top Mount X Rail
- - Simple istall just new xy parts only.
- - No major belt changes just the idler belts are now routed to rear of x axis beam. No cuttin no trimming of belts required.
- - ultra lightweigth with 17K accelerations. Print jobs look excellent at 10k internal 5k external
- - 682gram Total X Rail Full System. (is there a lighter gantry out there for a voron 2.4?)
+- Top Mount X Rail
+- Simple istall just new xy parts only.
+- No major belt changes just the idler belts are now routed to rear of x axis beam. No cuttin no trimming of belts required.
+- ultra lightweigth with 17K accelerations. Print jobs look excellent at 10k internal 5k external
+- 682gram Total X Rail Full System. (is there a lighter gantry out there for a voron 2.4?)
  ![](/images/v3/682g.png)
- - bed printable area 336x 324y (TODO:the bed can be pushed back ~4mm to increase ethe Y to 328ish)
+- bed printable area 336x 324y (TODO:the bed can be pushed back ~4mm to increase ethe Y to 328ish)
  ![](/images/336x324y.jpg)
 
 # Requriments
- - sensorless homing recommend Y home 1st then X home Then Z home
+- sensorless homing recommend Y home 1st then X home Then Z home
   - https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
- - klicky prob (really like it so far) Adjustable gantry mount
+- klicky prob (really like it so far) Adjustable gantry mount
   - https://github.com/jlas1/Klicky-Probe
   - custom adjustable gantry mount to suit custom heights
   -  https://github.com/julianjc84/VORON-2.4-TOP-MONT-X-RAIL/tree/main/ADJUSTABLE_klicky_probe_dock_voron2.4
- - umbelical or some kind of no cable chain system.
- - move the z axis chain under the gantry
+- umbelical or some kind of no cable chain system.
+- move the z axis chain under the gantry
   - https://www.printables.com/model/279739-voron-can-bus-z-chain-move
 
 # Inspired By
