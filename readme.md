@@ -67,6 +67,14 @@ OR
 
 I think make XY idlers wider to suit the standard VZ printHead....
 
+
+# i went with adjusting the idlers. here is the 1st build. XY_VZ_505SPACE_NEW_BUILD ADDED & UNTESTED. 
+The idlers now match the VZ spaced idlers
+Expected to not need the Z BeltClips?
+Fractional Y adjusted?
+![](images/vz/xy_old.png)
+![](images/vz/updatedvzxy.png)
+
 # InputShaper
 ![](images/input_shaper/x.png)
 ![](images/input_shaper/y.png) 
