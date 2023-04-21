@@ -34,11 +34,11 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 
 # RECENT DEVELOPMENTS
 2023-04-02 It has come to my attention that the VZ belt heights and the voron belt heights are almost identical with in 1mm of eachother.
-a close enouch spec for me to be happy.
-however you have to Mirror the Belt componetns on the X-axis of the VZ-Head.
-as i have a Beacon probe in the mail  have choosen the defult to the stock VS head - x axis mirrored
+a close enouch spec for me to be happy. However the horizontal alignment is far greater at 38mm compared to 31mm of the idlers. It will angle the belts....
 
-mirrored parts are 
+You also have to Mirror the Belt componetns on the X-axis of the VZ-Head.
+
+Mirrored parts would be. but horizontal alignment angles belts. 
 - bottom plate round standoff
 - front round standoff
 - back plate round standoff 
@@ -47,6 +47,14 @@ Reference Spec Images for the front belths. Rear belts are mirrored / identical
 ![](images/vz/voron_front.png)
 ![](images/vz/vz_front.png)
 ![](images/vz/voron_left_vz_right.png)
+
+ISSUE are that the standard vzprint head is alot longer at ~38mm compared to the RatRig build of ~31 and my idlers ~31
+seems the ratrig is best match however the belt for the ratrig are to suit 9mm and need inverting as well.
+
+![](images/vz/vzstandard-vs-rr.png)
+Can see the angled belts on the stock VZ Printhead 38mm Spacing.
+![](images/vz/vzangled_belts.jgg)
+
 
 # InputShaper
 ![](images/input_shaper/x.png)
