@@ -53,7 +53,7 @@ seems the ratrig is best match however the belt for the ratrig are to suit 9mm a
 
 ![](images/vz/vzstandard-vs-rr.png)
 Can see the angled belts on the stock VZ Printhead 38mm Spacing.
-![](images/vz/vzangled_belts.jgg)
+![](images/vz/vzangled_belts.jpg)
 
 
 # InputShaper
