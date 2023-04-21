@@ -1,4 +1,4 @@
-Many thanks to the VzBot and the Voron team for making excellent printers.
+Many thanks to  the VzBot and the Voron team for making excellent printers.
 
 # VORON-2.4-TOP-MOUNT-X-RAIL
 
