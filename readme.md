@@ -35,7 +35,7 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 - https://github.com/VzBoT3D/Vz-Printhead-Printed
 - https://github.com/VzBoT3D/VzBoT-Vz330
 
-# Official VZPrintHead Support
+# Official VZPrintHead Support - still work in progress,
 2023-04-21 VZ PrintablePrintHead Supported.
 Requirements to use the VZ-PrintablePrintHead mirror the Belt componetns on the X-axis.
 Mirrored parts are:
