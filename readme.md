@@ -13,9 +13,9 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 - No major belt changes just the XY idler belts are now routed to rear of x axis beam. No cuttin no trimming of belts required.
 - Ultra lightweigth design with high accelerations. See Input Shaper graphs below.
 - 682gram Total X-Rail Full System Install.
- ![](images/v3/682g.png)
 - Bed Printable area ~336x ~(y is actually greater to access end stop and brush) 324y
- ![](images/336x324y.jpg)
+![](images/v3/682g.png)
+![](images/336x324y.jpg)
 
 # Requriments
 
