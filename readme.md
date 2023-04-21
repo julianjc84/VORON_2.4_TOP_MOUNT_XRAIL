@@ -49,7 +49,7 @@ Reference Spec Images before a Mirror.
 
 The idlers now match the VZ PrintablePrintHead
 ![](images/vz/xy_old.png)
-![](images/vz/updatedvzxy.png)
+![](images/vz/updatedvzxy_1.png)
 
 # InputShaper
 ![](images/input_shaper/x.png)
