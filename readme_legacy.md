@@ -21,7 +21,7 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 
 - Sensorless homing! Recommend Y home 1st with 100mm back off. Home X 100mm back off. Move Center bed Home Z with BEACON
   - https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html (remeber to adjust homing acceleration to 1k)
-  - Beacon Probe
+  - Beacon Probe 
   - Umbelical or some kind of no cable chain system.
   - Move the Z-Axis chain under the gantry. and replace the bed mount so they chain can sit tucked under between. - https://www.printables.com/model/279739-voron-can-bus-z-chain-move
 
