@@ -48,11 +48,11 @@ Reference Spec Images for the front belths. Rear belts are mirrored / identical
 ![](images/vz/vz_front.png)
 ![](images/vz/voron_left_vz_right.png)
 
-ISSUE are that the standard vzprint head is alot longer at ~38mm compared to the RatRig build of ~31 and my idlers ~31
+ISSUE are that the standard vzprint head is alot longer at ~37mm compared to the RatRig build of ~31 and my idlers ~31
 seems the ratrig is best match however the belt for the ratrig are to suit 9mm and need inverting as well.
 
 ![](images/vz/vzstandard-vs-rr.png)
-Can see the angled belts on the stock VZ Printhead 38mm Spacing.
+Can see the angled belts on the stock VZ Printhead 37mm Spacing.
 ![](images/vz/vzangled_belts.jpg)
 
 
