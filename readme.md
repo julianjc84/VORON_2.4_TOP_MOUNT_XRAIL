@@ -55,6 +55,17 @@ seems the ratrig is best match however the belt for the ratrig are to suit 9mm a
 Can see the angled belts on the stock VZ Printhead 37mm Spacing.
 ![](images/vz/vzangled_belts.jpg)
 
+# What to update i'm stuck
+
+I want to use a Stock VZ printhead. - Standard or the RatRig.
+RR matches from the top spacing. however is designed for 9mm belts. So the front vertical is off.
+VZ Standard is extra long at 37mm and angles the belts. Looking down from top. However vertical belts match when mirrored.
+DO i.
+1) re draw the Front and Rear of the Ratrig to suit Voron 6mm belts
+OR
+2) make the Idlers wider to suit the standard VZ print head. - removing the need for the z- Belt Collision spacers. and loosing maybe possibly minimal front Y bed..
+
+I think make XY idlers wider to suit the standard VZ printHead....
 
 # InputShaper
 ![](images/input_shaper/x.png)
