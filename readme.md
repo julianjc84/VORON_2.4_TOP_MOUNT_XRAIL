@@ -39,7 +39,8 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 
 New Material Requirements.
  - 20x20 Carbon Fibre Rod at X mm length
- - x4 M5 x 40mm Pins or Bolts (preferably Smooth Shaft)
+ - x4 M5 x 50mm Bolts (preferably Smooth Shaft) (M5x40mm pins work however you can control the idler pressure with bolts)
+ - x4 M5 x 8mm HeatSet Nuts 
  - x4 M4 x 18mm cap head bolts (bottom of xy idlers)
  - x4 M4 x 12mm cap head bolts or dome (top of xy idlers)
  - x4 M5 1mm Shim Washers
