@@ -35,6 +35,18 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 - https://github.com/VzBoT3D/Vz-Printhead-Printed
 - https://github.com/VzBoT3D/VzBoT-Vz330
 
+# BOM Build List Of Materials
+
+New Material Requirements.
+ - 20x20 Carbon Fibre Rod at X mm length
+ - x4 M5 x 40mm Pins or Bolts (preferably Smooth Shaft)
+ - x4 M4 x 18mm cap head bolts (bottom of xy idlers)
+ - x4 M4 x 12mm cap head bolts or dome (top of xy idlers)
+ - x4 M5 1mm Shim Washers
+ Re Use of Existing Hardware
+ - use existing x8 M3 Bolts to mount to y linear rails.
+ - use existing M5 Washers, Idlers, GT20 Pullys.
+
 # Official VZPrintHead Support - still work in progress,
 2023-04-21 VZ PrintablePrintHead Supported.
 Requirements to use the VZ-PrintablePrintHead mirror the Belt componetns on the X-axis.
