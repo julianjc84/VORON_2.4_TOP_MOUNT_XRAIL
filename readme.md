@@ -3,6 +3,7 @@ Many thanks to  the VzBot and the Voron team for making excellent printers.
 # VORON-2.4-TOP-MOUNT-X-RAIL
 
 VORON-2.4-TOP-MOUNT-X-RAIL
+- 2023-06-19 - updated to acomodate VZ lasercut tool head after plastic melted.
 - 2023-04-21 - Updated to work with Offical VZ-PrintablePrintHead - https://github.com/VzBoT3D/Vz-Printhead-Printed
 - 2023-02-01 - v4 uploaded and running. (LEGACY)
 
@@ -48,7 +49,7 @@ New Material Requirements.
  - use existing x8 M3 Bolts to mount to y linear rails.
  - use existing M5 Washers, Idlers, GT20 Pullys.
 
-# Official VZPrintHead Support - still work in progress,
+# Official VZPrintHead Support (MIRRORED),
 2023-04-21 VZ PrintablePrintHead Supported.
 Requirements to use the VZ-PrintablePrintHead mirror the Belt componetns on the X-axis.
 Mirrored parts are:
@@ -61,26 +62,19 @@ Reference Spec Images before a Mirror.
 ![](images/vz/vz_front.png)
 
 The idlers now match the VZ PrintablePrintHead
-![](images/vz/xy_old.png)
 ![](images/vz/updatedvzxy_1.png)
 
-# InputShaper
+# InputShaper from V3
 ![](images/input_shaper/x.png)
 ![](images/input_shaper/y.png) 
 
-# V3 Images - legacy V4 has updates see CAD @ bottom.
+# 2023-06-19 current state
 
-![](images/v3/l_front.png) 
-
-![](images/v3/l_side.png) 
-
-![](images/v3/l_iso.png) 
-
-![](images/v3/v3iso.png) 
-
-![](images/v3/v3back.png) 
-
-![](images/v3/v3right.png) 
+![](images/current/overview.jpg)
+![](images/current/back.jpg)
+![](images/current/toprh.jpg)
+![](images/current/rh.jpg)
+![](images/current/lh.jpg)
 
 # YouTube
 
@@ -90,9 +84,6 @@ The idlers now match the VZ PrintablePrintHead
 
 [![youtube preview](https://img.youtube.com/vi/LdVHs1veAIQ/0.jpg)](https://www.youtube.com/watch?v=LdVHs1veAIQ)
 
-# Known Issues
-
-- v4 has no known issues.
 
 # zChain Hidden
 
@@ -101,13 +92,6 @@ The idlers now match the VZ PrintablePrintHead
 ![](images/zchain/zchain2.png)
 ![](images/zchain/zchain1.jpg)
 
-# v4 Improvmentns Included
-
-- Gantry collision solved by a belt clip that pads out the frame to prevent the 5015 fan from colliding. estimate Y reduction of 8mm
-![](images/v4/front_belt.png)
-![](images/v4/top_belt.png)
-![](images/v4/front_limit_stop.png)
-![](images/v4/front_limit_stop_2.png)
 
 # Feedback
 
